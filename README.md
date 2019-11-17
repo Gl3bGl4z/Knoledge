@@ -13,6 +13,7 @@ Links to various sources for infosec knowledge
 * [Privilege Escalation Windows](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html)
 * [Top Five Ways I Got Domain Admin on Your Internal Network before Lunch](https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa)
 * [Internal Monologue Attack - Retrieving NTLM Hashes without Touching LSASS](https://shenaniganslabs.io/2019/01/14/Internal-Monologue.html)
+* [Brute Forcing Accounts that have logged onto an AD joined computer](https://medium.com/@markmotig/brute-forcing-local-accounts-on-an-ad-joined-computer-30c4a45af027)
 
 ## Lateral Movement
 * [Lateral Movement – WinRM](https://pentestlab.blog/2018/05/15/lateral-movement-winrm/)
@@ -30,8 +31,10 @@ Links to various sources for infosec knowledge
 * [Why You Should Never Save Passwords on Chrome or Firefox](https://hackernoon.com/why-you-should-never-save-passwords-on-chrome-or-firefox-96b770cfd0d0)
 * [DealPly Revisited: Leveraging Reputation Services To Remain Under The Radar](https://blog.ensilo.com/leveraging-reputation-services?hs_amp=true&__twitter_impression=true)
 
-## Guides, Best practices
+## Recommendations, Best practices
 * [Hardening Your Azure Domain Front](https://medium.com/@rvrsh3ll/hardening-your-azure-domain-front-7423b5ab4f64)
+* [Security baseline for Office 365 ProPlus (v1907, July 2019) - DRAFT](https://techcommunity.microsoft.com/t5/Microsoft-Security-Baselines/Security-baseline-for-Office-365-ProPlus-v1907-July-2019-DRAFT/ba-p/771308)
+* [Preventing Mimikatz Attacks](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
 
 ## Evasion
 * [Embedding EXE files into PowerShell script](https://truesecdev.wordpress.com/2016/03/15/embedding-exe-files-into-powershell-scripts/)
@@ -47,6 +50,10 @@ Links to various sources for infosec knowledge
 * [Suck it, Windows Defender.](https://hausec.com/2019/02/09/suck-it-windows-defender/)
 * [Download Cradles](https://gist.github.com/HarmJ0y/bb48307ffa663256e239)
 * [Download Cradles 2](https://gist.github.com/HarmJ0y/fd98c4f16575ba28c091)
+* [NTLM relaying examples using letit software and commands](https://twitter.com/mubix/status/1123784467187945484)
+* [Understanding UNC paths, SMB, and WebDAV](https://www.n00py.io/2019/06/understanding-unc-paths-smb-and-webdav/)
+* [Executing Metasploit & Empire Payloads from MS Office Document Properties (part 1 of 2)](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2/)
+* [Sandbox Evasion Techniques – Part 1](https://www.vmray.com/cyber-security-blog/sandbox-evasion-techniques-part-1/)
 
 ## OSINT
 * [Digital Shadows: Seeking Sector035](https://nixintel.info/osint/digital-shadows-seeking-sector035-quiztime-26th-september-2019/)
@@ -60,8 +67,10 @@ https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-
 * [Advanced persistence threats: to be a cybercriminal, think like a sysadmin](https://redcanary.com/blog/detecting-persistence-techniques/) @RedCanary
 * [a .lnk file that contains an entire obfuscated .vbs script and a cmd oneliner to call it](https://twitter.com/JayTHL/status/1176897375882924032?s=08)
 * [This malware is harvesting saved credentials in Chrome, Firefox browsers](https://www.zdnet.com/article/this-malware-is-harvesting-saved-credentials-in-chrome-firefox-browsers/)
+* [#TrickBot Banking #Malware](https://twitter.com/VK_Intel/status/1152436348802019328?s=08)
+* [Dismantling a fileless campaign: Microsoft Defender ATP’s Antivirus exposes Astaroth attack](https://www.microsoft.com/security/blog/2019/07/08/dismantling-a-fileless-campaign-microsoft-defender-atp-next-gen-protection-exposes-astaroth-attack/)
 
-## Study
+## Study/Guide
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL - Thread](https://twitter.com/FlatL1ne/status/1178668327947948033?s=08)
 * [Python for Beginners @Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 * [How to host a site on the dark web](https://medium.com/@jasonrigden/how-to-host-a-site-on-the-dark-web-38edf00996bf)
@@ -69,6 +78,8 @@ https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-
 * [Guide to Mimikatz](https://adsecurity.org/?page_id=1821)
 * [Powershell for exploitation and post exploitation - Part 2](https://www.peerlyst.com/posts/powershell-for-exploitation-and-post-exploitation-part-2-david-dunmore?utm_source=twitter&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post)
 * [Cryptographic Attacks: A Guide for the Perplexed](https://research.checkpoint.com/cryptographic-attacks-a-guide-for-the-perplexed/) @Checkpoint
+* [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325)
+* [Fileless threats](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/fileless-threats)
 
 ## Information
 * [Your fucking IP](https://wtfismyip.com/)
@@ -80,6 +91,12 @@ https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-
 * [EVTX attack samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/tree/master/Privilege%20Escalation)
 * [Malicious Powershell Scripts](https://onedrive.live.com/?cid=7874cfd565b38d4b&id=7874CFD565B38D4B%211091892&authkey=!AC9cbXs-twuSZ-E)
 * [Panache_sysmon config](https://twitter.com/SBousseaden/status/1155476334379962370?s=08)
+* [Pros and Cons of DNS Over HTTPS](https://dzone.com/articles/pros-and-cons-of-dns-over-https)
+* [Recommended scan exclusion list for Trend Micro Endpoint products](https://success.trendmicro.com/solution/1059770-recommended-scan-exclusion-list-for-trend-micro-endpoint-products)
+* [Living Off The Land Binaries and Scripts (and also Libraries)](https://lolbas-project.github.io/)
+* [reminder that Powershell resides in many places](https://twitter.com/Hexacorn/status/1149088638959071237)
+* [Tracking Threat Actor Emails in Phishing Kits](https://github.com/neonprimetime/PhishingKitTracker?files=1)
+* [A checkpoint forum thread about how to deal with DNS encryption problem](https://community.checkpoint.com/t5/Access-Control-Products/How-to-deal-with-DNS-over-HTTPS-DNS-over-TLS-QUIC-and-PSOM/td-p/11528)
 
 ## Other tools
 * [An open-source whistleblower submission system](https://twitter.com/SecureDrop)
@@ -89,3 +106,9 @@ https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-
 * [Semi-Automated Cyber Threat Intelligence - ACT Platform](https://github.com/mnemonic-no/act-platform)
 * [NebulousAD: A Free Credential Auditor for Active Directory](https://blog.nuid.io/nebulousad/)
 * [HTTP requests interceptor](https://beeceptor.com/)
+* [HTTP rqquests interceptor 2](http://webhook.site/)
+* [Browser leaks](https://browserleaks.com)
+* [GZIP file that infinitely contains itself](https://twitter.com/WhoStoleHonno/status/1153315367235784704?s=08)
+* [How to win a free trip to the gulag.](https://twitter.com/CrazyinRussia/status/1153293395932135424?s=08)
+* [PowerShell repository that help raise "safe" security alerts](https://twitter.com/MiladMSFT/status/1152222809747329024?s=08)
+* [A small hobby ads block dns project with doh, dot, dnscrypt support.](https://blahdns.com/)
