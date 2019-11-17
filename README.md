@@ -3,7 +3,7 @@ Links to various sources for infosec knowledge
 
 ## Privilege Escalation
 * [Windows Privilege Escalation via DLL Hijacking](https://hacknpentest.com/windows-privilege-escalation-dll-hijacking/)
-* [DLL hollowing](https://github.com/hasherezade/module_overloading) by Hasherezade
+* [DLL hollowing](https://github.com/hasherezade/module_overloading) @Hasherezade
 * [CVE-2019-1322](https://twitter.com/decoder_it/status/1193496591140818944?s=08)
 * [Basic Priv info](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
 * [Azure AD privilege escalation - Taking over default application permissions as Application Admin](https://dirkjanm.io/azure-ad-privilege-escalation-application-admin/)
