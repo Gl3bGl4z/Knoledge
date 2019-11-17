@@ -7,6 +7,8 @@ Links to various sources for infosec knowledge
 * [CVE-2019-1322](https://twitter.com/decoder_it/status/1193496591140818944?s=08)
 * [Basic Priv info](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
 
+## Lateral Movement
+* [Lateral Movement – WinRM](https://pentestlab.blog/2018/05/15/lateral-movement-winrm/)
 
 ## Hack Tool
 * [WinRM shell-trojan](https://github.com/Hackplayers/evil-winrm)
@@ -22,9 +24,15 @@ Links to various sources for infosec knowledge
 * [creating hta file with Evading AV](https://github.com/felamos/weirdhta)
 * [Data exfiltration techniques](https://www.pentestpartners.com/security-blog/data-exfiltration-techniques/)
 * [Data exfiltration techniques @Azeria](https://azeria-labs.com/data-exfiltration/)
+* [executables from the memory of Word or Excel](https://github.com/itm4n/VBA-RunPE)
+* [Creates a local or "reverse" Socks proxy using powershell](https://github.com/p3nt4/Invoke-SocksProxy/blob/master/README.md)
 
 ## OSINT
 * [Digital Shadows: Seeking Sector035](https://nixintel.info/osint/digital-shadows-seeking-sector035-quiztime-26th-september-2019/)
+https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-greynoise-activity-6580154869917765632-H-bm/
+
+## Feeds
+* [Google Safe Browsing](https://developers.google.com/safe-browsing)
 
 ## Attacks
 * (Bypassing Network Restrictions Through RDP/SSH Tunneling)[https://www.fireeye.com/blog/threat-research/2019/01/bypassing-network-restrictions-through-rdp-tunneling.html]  @Fireeye
@@ -34,8 +42,13 @@ https://redcanary.com/blog/detecting-persistence-techniques/ @RedCanary
 ## Study
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL - Thread](https://twitter.com/FlatL1ne/status/1178668327947948033?s=08)
 * [Python for Beginners @Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+* [How to host a site on the dark web](https://medium.com/@jasonrigden/how-to-host-a-site-on-the-dark-web-38edf00996bf)
 
 ## Information
 * [Your fucking IP](https://wtfismyip.com/)
 * [Dimitry finds out - Original](https://www.youtube.com/watch?v=2-XxbdR3Nik)
 * [GPO information](https://getadmx.com/)
+* [Detect mimikatz idea](https://twitter.com/mysmartlogon/status/1158816784524500998?s=20)
+
+## Other tools
+* (An open-source whistleblower submission system)[https://twitter.com/SecureDrop]
