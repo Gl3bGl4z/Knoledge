@@ -102,7 +102,7 @@ https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-
 * [An open-source whistleblower submission system](https://twitter.com/SecureDrop)
 * [Shellphish: A Phishing Tool](https://www.hackingarticles.in/shellphish-a-phishing-tool/)
 * [Create a minidump of the LSASS process from memory](https://github.com/b4rtik/SharpMiniDump)
-* [C3 - C&C tool)[https://rastamouse.me/2019/09/mwr-labs-c3-first-look/]
+* [C3 - C&C tool](https://rastamouse.me/2019/09/mwr-labs-c3-first-look/)
 * [Semi-Automated Cyber Threat Intelligence - ACT Platform](https://github.com/mnemonic-no/act-platform)
 * [NebulousAD: A Free Credential Auditor for Active Directory](https://blog.nuid.io/nebulousad/)
 * [HTTP requests interceptor](https://beeceptor.com/)
