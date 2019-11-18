@@ -1,4 +1,4 @@
-# Knoledge
+# knowledge
 Links to various sources for infosec knowledge
 
 ## Privilege Escalation
