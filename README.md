@@ -70,6 +70,9 @@ https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-
 * [#TrickBot Banking #Malware](https://twitter.com/VK_Intel/status/1152436348802019328?s=08)
 * [Dismantling a fileless campaign: Microsoft Defender ATP’s Antivirus exposes Astaroth attack](https://www.microsoft.com/security/blog/2019/07/08/dismantling-a-fileless-campaign-microsoft-defender-atp-next-gen-protection-exposes-astaroth-attack/)
 
+## Monitoring/IR/Forensics
+* [Sysmon configuration file template with default high-quality event tracing](https://github.com/SwiftOnSecurity/sysmon-config)
+
 ## Study/Guide
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL - Thread](https://twitter.com/FlatL1ne/status/1178668327947948033?s=08)
 * [Python for Beginners @Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
