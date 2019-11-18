@@ -57,7 +57,22 @@ Links to various sources for infosec knowledge
 
 ## OSINT
 * [Digital Shadows: Seeking Sector035](https://nixintel.info/osint/digital-shadows-seeking-sector035-quiztime-26th-september-2019/)
-https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-greynoise-activity-6580154869917765632-H-bm/
+* [GreyNoise Intelligence Anounce](https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-greynoise-activity-6580154869917765632-H-bm/)
+* [Censys - Search certificates and hosts](https://Censys.io)
+* [Shodan - Internet search]()
+* [Certificate transparency project search - CRT.SH](https://crt.sh)
+* [Certificate transparency project search - Google](https://transparencyreport.google.com/https/certificates?hl=en)
+* [Certificates search](https://certdb.com/)
+* [Whois - Domaintools](https://whois.domaintools.com/)
+* [Whois.net](https://whois.net/)
+* [Search ASN info](https://www.ultratools.com/tools/asnInfo)
+* [Reverse whois](https://viewdns.info/reversewhois/)
+* [IP whois](https://www.ultratools.com/tools/ipWhoisLookup)
+* [Shared hosting on same IP search](https://hackertarget.com/reverse-ip-lookup/)
+* [Shared domains on same NS server search)[https://hackertarget.com/find-shared-dns-servers/]
+* [Metadata tool](https://github.com/opsdisk/metagoofil/blob/master/README.md)
+* [General OSINT - RiskIQ](https://community.riskiq.com)
+* [Reverse IP](http://reverse.domainlex.com/reverse-ip/)
 
 ## Feeds
 * [Google Safe Browsing](https://developers.google.com/safe-browsing)
@@ -83,6 +98,7 @@ https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-
 * [Cryptographic Attacks: A Guide for the Perplexed](https://research.checkpoint.com/cryptographic-attacks-a-guide-for-the-perplexed/) @Checkpoint
 * [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325)
 * [Fileless threats](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/fileless-threats)
+* [Finding metadata](https://resources.infosecinstitute.com/metadata-the-hidden-treasure/)
 
 ## Information
 * [Your fucking IP](https://wtfismyip.com/)
@@ -100,6 +116,7 @@ https://www.linkedin.com/posts/andrew---morris_im-extremely-excited-to-announce-
 * [reminder that Powershell resides in many places](https://twitter.com/Hexacorn/status/1149088638959071237)
 * [Tracking Threat Actor Emails in Phishing Kits](https://github.com/neonprimetime/PhishingKitTracker?files=1)
 * [A checkpoint forum thread about how to deal with DNS encryption problem](https://community.checkpoint.com/t5/Access-Control-Products/How-to-deal-with-DNS-over-HTTPS-DNS-over-TLS-QUIC-and-PSOM/td-p/11528)
+* [Shodan filters](https://github.com/JavierOlmedo/shodan-filters)
 
 ## Other tools
 * [An open-source whistleblower submission system](https://twitter.com/SecureDrop)
