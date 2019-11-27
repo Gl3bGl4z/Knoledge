@@ -15,6 +15,11 @@ Links to various sources for infosec knowledge
 * [Internal Monologue Attack - Retrieving NTLM Hashes without Touching LSASS](https://shenaniganslabs.io/2019/01/14/Internal-Monologue.html)
 * [Brute Forcing Accounts that have logged onto an AD joined computer](https://medium.com/@markmotig/brute-forcing-local-accounts-on-an-ad-joined-computer-30c4a45af027)
 
+## LOLBAS/LOLBINS
+* [Locading DLL using odbcconf.exe](https://twitter.com/Hexacorn/status/1187143326673330176?s=08)
+* [3rd party signed LOLBIN](https://twitter.com/gN3mes1s/status/1196366977369022464?s=08)
+
+
 ## Lateral Movement
 * [Lateral Movement – WinRM](https://pentestlab.blog/2018/05/15/lateral-movement-winrm/)
 * [Offensive Lateral Movement](https://posts.specterops.io/offensive-lateral-movement-1744ae62b14f)
@@ -132,3 +137,4 @@ Links to various sources for infosec knowledge
 * [How to win a free trip to the gulag.](https://twitter.com/CrazyinRussia/status/1153293395932135424?s=08)
 * [PowerShell repository that help raise "safe" security alerts](https://twitter.com/MiladMSFT/status/1152222809747329024?s=08)
 * [A small hobby ads block dns project with doh, dot, dnscrypt support.](https://blahdns.com/)
+* [Creating mindmaps](https://www.mindmup.com/)
