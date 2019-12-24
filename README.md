@@ -108,6 +108,7 @@ Links to various sources for infosec knowledge
 * [Finding metadata](https://resources.infosecinstitute.com/metadata-the-hidden-treasure/)
 * [Red Team Techniques for Evading, Bypassing, and Disabling MS](https://www.blackhat.com/docs/eu-17/materials/eu-17-Thompson-Red-Team-Techniques-For-Evading-Bypassing-And-Disabling-MS-Advanced-Threat-Protection-And-Advanced-Threat-Analytics.pdf).
 * [Blueteam tips](https://www.sneakymonkey.net/2018/06/25/blue-team-tips/)
+* [DCSync](https://ired.team/offensive-security-experiments/active-directory-kerberos-abuse/dump-password-hashes-from-domain-controller-with-dcsync)
 
 ## Information
 * [Your fucking IP](https://wtfismyip.com/)
