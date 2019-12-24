@@ -50,6 +50,7 @@ Links to various sources for infosec knowledge
 * [Creates a local or "reverse" Socks proxy using powershell](https://github.com/p3nt4/Invoke-SocksProxy/blob/master/README.md)
 * [Bypassing AV (Windows Defender) … the tedious way](https://www.cyberguider.com/bypassing-windows-defender-the-tedious-way/)
 * [Bypassing PowerShell Protections](https://blog.stealthbits.com/how-attackers-are-bypassing-powershell-protections/)
+* [Exploring PowerShell AMSI and Logging Evasion](https://www.mdsec.co.uk/2018/06/exploring-powershell-amsi-and-logging-evasion/)
 * [DotNet Core: A Vector For AWL Bypass & Defense Evasion](https://bohops.com/2019/08/19/dotnet-core-a-vector-for-awl-bypass-defense-evasion/)
 * [How to Bypass AMSI with an Unconventional Powershell Cradle](https://medium.com/@gamer.skullie/bypassing-amsi-with-an-unconventional-powershell-cradle-6bd15a17d8b9)
 * [Suck it, Windows Defender.](https://hausec.com/2019/02/09/suck-it-windows-defender/)
