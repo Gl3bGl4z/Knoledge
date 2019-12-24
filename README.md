@@ -92,6 +92,7 @@ Links to various sources for infosec knowledge
 
 ## Monitoring/IR/Forensics
 * [Sysmon configuration file template with default high-quality event tracing](https://github.com/SwiftOnSecurity/sysmon-config)
+* [Sigma pastes](https://github.com/Neo23x0/sigma/blob/master/rules/proxy/proxy_raw_paste_service_access.yml)
 
 ## Study/Guide
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL - Thread](https://twitter.com/FlatL1ne/status/1178668327947948033?s=08)
@@ -104,6 +105,8 @@ Links to various sources for infosec knowledge
 * [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325)
 * [Fileless threats](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/fileless-threats)
 * [Finding metadata](https://resources.infosecinstitute.com/metadata-the-hidden-treasure/)
+* [Red Team Techniques for Evading, Bypassing, and Disabling MS](https://www.blackhat.com/docs/eu-17/materials/eu-17-Thompson-Red-Team-Techniques-For-Evading-Bypassing-And-Disabling-MS-Advanced-Threat-Protection-And-Advanced-Threat-Analytics.pdf).
+* [Blueteam tips](https://www.sneakymonkey.net/2018/06/25/blue-team-tips/)
 
 ## Information
 * [Your fucking IP](https://wtfismyip.com/)
@@ -138,3 +141,5 @@ Links to various sources for infosec knowledge
 * [PowerShell repository that help raise "safe" security alerts](https://twitter.com/MiladMSFT/status/1152222809747329024?s=08)
 * [A small hobby ads block dns project with doh, dot, dnscrypt support.](https://blahdns.com/)
 * [Creating mindmaps](https://www.mindmup.com/)
+* [Azure CyberRange script](https://github.com/xFreed0m/Disruption)
+
