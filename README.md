@@ -60,6 +60,7 @@ Links to various sources for infosec knowledge
 * [Understanding UNC paths, SMB, and WebDAV](https://www.n00py.io/2019/06/understanding-unc-paths-smb-and-webdav/)
 * [Executing Metasploit & Empire Payloads from MS Office Document Properties (part 1 of 2)](https://stealingthe.network/executing-metasploit-empire-payloads-from-ms-office-document-properties-part-1-of-2/)
 * [Sandbox Evasion Techniques – Part 1](https://www.vmray.com/cyber-security-blog/sandbox-evasion-techniques-part-1/)
+* [PowerShell obfuscation](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf)/
 
 ## OSINT
 * [Digital Shadows: Seeking Sector035](https://nixintel.info/osint/digital-shadows-seeking-sector035-quiztime-26th-september-2019/)
