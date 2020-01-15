@@ -89,6 +89,7 @@ Links to various sources for infosec knowledge
 * [Advanced persistence threats: to be a cybercriminal, think like a sysadmin](https://redcanary.com/blog/detecting-persistence-techniques/) @RedCanary
 * [a .lnk file that contains an entire obfuscated .vbs script and a cmd oneliner to call it](https://twitter.com/JayTHL/status/1176897375882924032?s=08)
 * [This malware is harvesting saved credentials in Chrome, Firefox browsers](https://www.zdnet.com/article/this-malware-is-harvesting-saved-credentials-in-chrome-firefox-browsers/)
+* [Campaign Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections))
 * [#TrickBot Banking #Malware](https://twitter.com/VK_Intel/status/1152436348802019328?s=08)
 * [Dismantling a fileless campaign: Microsoft Defender ATP’s Antivirus exposes Astaroth attack](https://www.microsoft.com/security/blog/2019/07/08/dismantling-a-fileless-campaign-microsoft-defender-atp-next-gen-protection-exposes-astaroth-attack/)
 * [Pass-The-Hash](https://blog.stealthbits.com/passing-the-hash-with-mimikatz)
