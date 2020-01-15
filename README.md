@@ -91,6 +91,7 @@ Links to various sources for infosec knowledge
 * [#TrickBot Banking #Malware](https://twitter.com/VK_Intel/status/1152436348802019328?s=08)
 * [Dismantling a fileless campaign: Microsoft Defender ATP’s Antivirus exposes Astaroth attack](https://www.microsoft.com/security/blog/2019/07/08/dismantling-a-fileless-campaign-microsoft-defender-atp-next-gen-protection-exposes-astaroth-attack/)
 * [Pass-The-Hash](https://blog.stealthbits.com/passing-the-hash-with-mimikatz)
+* [Kerberoasting](https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
 
 ## Monitoring/IR/Forensics
 * [Sysmon configuration file template with default high-quality event tracing](https://github.com/SwiftOnSecurity/sysmon-config)
