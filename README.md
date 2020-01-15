@@ -99,6 +99,7 @@ Links to various sources for infosec knowledge
 * [Hunting and detecting APTs using Sysmon and PowerShell logging](https://www.botconf.eu/wp-content/uploads/2018/12/2018-Tom-Ueltschi-Sysmon.pdf)
 * [Hunting for malicious powershell with splunk](https://conf.splunk.com/files/2016/slides/powershell-power-hell-hunting-for-malicious-use-of-powershell-with-splunk.pdf)
 * [Splunk cheetshit](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5a3187b4419202f0fb8b2dd1/1513195444728/Windows+Splunk+Logging+Cheat+Sheet+v2.2.pdf)
+* [Windows advanced audit](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1511904841.pdf)
 
 ## Study/Guide
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL - Thread](https://twitter.com/FlatL1ne/status/1178668327947948033?s=08)
