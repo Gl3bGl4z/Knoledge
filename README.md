@@ -101,6 +101,7 @@ Links to various sources for infosec knowledge
 * [Splunk cheetshit](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5a3187b4419202f0fb8b2dd1/1513195444728/Windows+Splunk+Logging+Cheat+Sheet+v2.2.pdf)
 * [Windows advanced audit](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1511904841.pdf)
 * [AD auditing](https://activedirectorypro.com/audit-policy-best-practices/#active-directory-audit-policy)
+* [Hunting credential dumping](https://2017.zeronights.org/wp-content/uploads/materials/ZN17_Kheirkhabarov_Hunting_for_Credentials_Dumping_in_Windows_Environment.pdf)
 
 ## Study/Guide
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL - Thread](https://twitter.com/FlatL1ne/status/1178668327947948033?s=08)
