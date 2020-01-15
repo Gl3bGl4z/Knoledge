@@ -139,6 +139,7 @@ Links to various sources for infosec knowledge
 * [Tracking Threat Actor Emails in Phishing Kits](https://github.com/neonprimetime/PhishingKitTracker?files=1)
 * [A checkpoint forum thread about how to deal with DNS encryption problem](https://community.checkpoint.com/t5/Access-Control-Products/How-to-deal-with-DNS-over-HTTPS-DNS-over-TLS-QUIC-and-PSOM/td-p/11528)
 * [Shodan filters](https://github.com/JavierOlmedo/shodan-filters)
+* [PowerShell cheatsheet](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/59c1814829f18782e24f1fe2/1505853768977/Windows+PowerShell+Logging+Cheat+Sheet+ver+Sept+2017+v2.1.pdf)
 
 ## Other tools
 * [An open-source whistleblower submission system](https://twitter.com/SecureDrop)
