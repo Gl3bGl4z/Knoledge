@@ -102,6 +102,7 @@ Links to various sources for infosec knowledge
 * [Windows advanced audit](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1511904841.pdf)
 * [AD auditing](https://activedirectorypro.com/audit-policy-best-practices/#active-directory-audit-policy)
 * [Hunting credential dumping](https://2017.zeronights.org/wp-content/uploads/materials/ZN17_Kheirkhabarov_Hunting_for_Credentials_Dumping_in_Windows_Environment.pdf)
+* [Enabling Advanced Security Audit Policy via DS Access](https://blogs.technet.microsoft.com/canitpro/2017/03/29/step-by-step-enabling-advanced-security-audit-policy-via-ds-access/)
 
 ## Study/Guide
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL - Thread](https://twitter.com/FlatL1ne/status/1178668327947948033?s=08)
