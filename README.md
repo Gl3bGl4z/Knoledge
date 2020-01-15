@@ -97,6 +97,8 @@ Links to various sources for infosec knowledge
 * [Sysmon configuration file template with default high-quality event tracing](https://github.com/SwiftOnSecurity/sysmon-config)
 * [Sigma pastes](https://github.com/Neo23x0/sigma/blob/master/rules/proxy/proxy_raw_paste_service_access.yml)
 * [Hunting and detecting APTs using Sysmon and PowerShell logging](https://www.botconf.eu/wp-content/uploads/2018/12/2018-Tom-Ueltschi-Sysmon.pdf)
+* [Hunting for malicious powershell with splunk](https://conf.splunk.com/files/2016/slides/powershell-power-hell-hunting-for-malicious-use-of-powershell-with-splunk.pdf)
+* [Splunk cheetshit](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5a3187b4419202f0fb8b2dd1/1513195444728/Windows+Splunk+Logging+Cheat+Sheet+v2.2.pdf)
 
 ## Study/Guide
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL - Thread](https://twitter.com/FlatL1ne/status/1178668327947948033?s=08)
@@ -113,6 +115,7 @@ Links to various sources for infosec knowledge
 * [Blueteam tips](https://www.sneakymonkey.net/2018/06/25/blue-team-tips/)
 * [DCSync](https://ired.team/offensive-security-experiments/active-directory-kerberos-abuse/dump-password-hashes-from-domain-controller-with-dcsync)
 * [Powershell attack and defence](https://adsecurity.org/?p=2921)
+* [Atomic coverage](https://atomicthreatcoverage.atlassian.net/wiki/spaces/ATC/overview)
 
 ## Information
 * [Your fucking IP](https://wtfismyip.com/)
