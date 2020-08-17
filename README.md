@@ -19,10 +19,12 @@ Links to various sources for infosec knowledge
 * [Locading DLL using odbcconf.exe](https://twitter.com/Hexacorn/status/1187143326673330176?s=08)
 * [3rd party signed LOLBIN](https://twitter.com/gN3mes1s/status/1196366977369022464?s=08)
 
-
 ## Lateral Movement
 * [Lateral Movement – WinRM](https://pentestlab.blog/2018/05/15/lateral-movement-winrm/)
 * [Offensive Lateral Movement](https://posts.specterops.io/offensive-lateral-movement-1744ae62b14f)
+
+## Information Gathering Post Exploitation
+* [SharpHound 3](https://github.com/BloodHoundAD/SharpHound3)
 
 ## Hack Tool
 * [WinRM shell-trojan](https://github.com/Hackplayers/evil-winrm)
@@ -64,6 +66,9 @@ Links to various sources for infosec knowledge
 * [PowerShell obfuscation](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492186586.pdf)
 * [APIunhooker](https://github.com/RedLectroid/APIunhooker)
 * [Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
+* [Rundll use 1](https://github.com/3F/DllExport)
+* [Rundll use 2](https://3xpl01tc0d3r.blogspot.com/2019/11/managed-dll-exports-and-run-via-rundll32.html)
+
 
 ## OSINT
 * [Digital Shadows: Seeking Sector035](https://nixintel.info/osint/digital-shadows-seeking-sector035-quiztime-26th-september-2019/)
@@ -84,6 +89,9 @@ Links to various sources for infosec knowledge
 * [General OSINT - RiskIQ](https://community.riskiq.com)
 * [Reverse IP](http://reverse.domainlex.com/reverse-ip/)
 
+## Defense
+* [Scout Suite is an open source multi-cloud security-auditing tool](https://github.com/nccgroup/ScoutSuite)
+
 ## Feeds
 * [Google Safe Browsing](https://developers.google.com/safe-browsing)
 
@@ -97,6 +105,7 @@ Links to various sources for infosec knowledge
 * [Dismantling a fileless campaign: Microsoft Defender ATP’s Antivirus exposes Astaroth attack](https://www.microsoft.com/security/blog/2019/07/08/dismantling-a-fileless-campaign-microsoft-defender-atp-next-gen-protection-exposes-astaroth-attack/)
 * [Pass-The-Hash](https://blog.stealthbits.com/passing-the-hash-with-mimikatz)
 * [Kerberoasting](https://www.harmj0y.net/blog/powershell/kerberoasting-without-mimikatz/)
+* [Lazarus on the hunt for big game](https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/)
 
 ## Monitoring/IR/Forensics
 * [Sysmon configuration file template with default high-quality event tracing](https://github.com/SwiftOnSecurity/sysmon-config)
@@ -110,6 +119,12 @@ Links to various sources for infosec knowledge
 * [Enabling Advanced Security Audit Policy via DS Access](https://blogs.technet.microsoft.com/canitpro/2017/03/29/step-by-step-enabling-advanced-security-audit-policy-via-ds-access/)
 * [Investigating PowerShell Attacks](https://www.blackhat.com/docs/us-14/materials/us-14-Kazanciyan-Investigating-Powershell-Attacks-WP.pdf)
 * [Sigma rules](https://medium.com/oscd/oscd-threat-detection-sprint-1-c42317e06771)
+* [Learning Aid - Top Base64 Encodings Table](https://gist.github.com/Neo23x0/6af876ee72b51676c82a2db8d2cd3639)
+* [MATA: Multi-platform targeted malware framework](https://securelist.com/mata-multi-platform-targeted-malware-framework/97746/)
+
+## Honeypots
+* [HoneyDoc](https://github.com/jqreator/honeydoc)
+* [Fake AD objects](https://github.com/davidprowe/BadBlood)
 
 ## Study/Guide
 * [BUILDING AND ATTACKING AN ACTIVE DIRECTORY LAB WITH POWERSHELL - Thread](https://twitter.com/FlatL1ne/status/1178668327947948033?s=08)
